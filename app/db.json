@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "B.tech cs",
+      "duration": "4",
+      "id": 6
+    },
+    {
+      "name": "B.tech ee",
+      "duration": "4",
+      "id": 7
+    },
+    {
+      "name": "B.com",
+      "duration": "3",
+      "id": 9
+    },
+    {
+      "name": "B.A",
+      "duration": "3",
+      "id": 10
+    },
+    {
+      "name": "B.tech mechanical",
+      "duration": "4",
+      "id": 11
+    },
+    {
+      "name": "kk",
+      "duration": "5",
+      "id": 12
+    }
+  ]
+}
